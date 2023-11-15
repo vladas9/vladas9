@@ -6,7 +6,9 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif"  />
+<div align="center">
+  <img height="200" src="https://media.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif"  />
+</div>
 
 ###
 
@@ -24,6 +26,10 @@
 
 ###
 
+<h3 align="center">🔨Languages and tools🔨</h3>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -34,20 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vladas9/vladas9/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31pq5sblxyfo5umirbuwckbeyhxa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pq5sblxyfo5umirbuwckbeyhxa&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
