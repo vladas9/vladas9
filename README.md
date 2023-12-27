@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://rust-lang.org/logos/rust-logo-512x512-blk.png" height="40" alt="rust logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-rust-3445848-2878780.png?f=webp" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
