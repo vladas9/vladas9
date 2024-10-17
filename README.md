@@ -1,11 +1,12 @@
-
 <h1 align="center">Hi 👋, I'm Vladislav</h1>
 
+###
 
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/e85784d6dcb381c6d1a0207bec6d22fc79375ef9d51a358f4168fd6e13cbbe88/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7042727a76774c7a62776f41414141692f6861636b696e672d6861636b2e676966"  />
 </div>
 
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vladislav-amza-659743293/" target="_blank">
@@ -13,12 +14,15 @@
   </a>
 </div>
 
+###
 
 <img align="right" src="https://profile-counter.glitch.me/vladas9/count.svg?"  />
 
-
+###
 
 <h3 align="left">🛠 Language and tools</h3>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -98,11 +102,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vladas9&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=gruvbox&hide_border=true&order=2" height="300" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=vladas9&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="300" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=vladas9&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=vladas9&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vladas9&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="300" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vladas9&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true&order=2" height="300" alt="languages graph"  />
 </div>
+
+###
